@@ -5,3 +5,8 @@ function myFunction(){
     let text3= text1 + text2;
     document.getElementById("demo").innerHTML = text3;
 }
+
+
+function postTask(){
+    
+}
