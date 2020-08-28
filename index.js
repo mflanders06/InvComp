@@ -10,3 +10,18 @@ function myFunction(){
 function postTask(){
     
 }
+
+const init = function(){
+    document.getElementById('button-cancel'). addEventListener('click', reset);
+    document.getElementById('button-send').addEventListener('click', send);
+}
+
+const reset = function(whatIsThis){
+
+}
+
+const send = function(whatIsThis){
+
+}
+
+const
